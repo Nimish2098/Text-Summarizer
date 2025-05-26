@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+envText/etc/jupyter/jupyter_notebook_config.d/jupyterlab.json
+
+# Virtual environment
+envText/
+.envText/
